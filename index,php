@@ -1,0 +1,1408 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link rel="shortlink" href="https://www.baovietbank.vn/en" />
+<link rel="author" href="Vinno JSC" />
+<link rel="shortcut icon" href="https://www.baovietbank.vn/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="copyright" content="BaoViet Bank" />
+<link rel="canonical" href="https://www.baovietbank.vn/en" />
+<meta name="generator" content="BaoViet Bank" />
+<meta name="abstract" content="BaoViet Bank | Your trust, Our commitment" />
+<meta name="description" content="BaoViet Bank | Your trust, Our commitment" />
+<meta name="news_keywords" content="BaoViet Bank | Your trust, Our commitment" />
+<meta name="keywords" content="BaoViet Bank | Your trust, Our commitment" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<title>BaoViet Bank | Your trust, Our commitment</title>
+<style>@import url("https://www.baovietbank.vn/modules/system/system.base.css?qkl8wj");
+@import url("https://www.baovietbank.vn/modules/system/system.menus.css?qkl8wj");
+@import url("https://www.baovietbank.vn/modules/system/system.messages.css?qkl8wj");
+@import url("https://www.baovietbank.vn/modules/system/system.theme.css?qkl8wj");</style>
+<style media="screen">@import url("https://www.baovietbank.vn/sites/all/modules/qtip/library/jquery.qtip.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/qtip/css/qtip.css?qkl8wj");</style>
+<style>@import url("https://www.baovietbank.vn/misc/ui/jquery.ui.core.css?qkl8wj");
+@import url("https://www.baovietbank.vn/misc/ui/jquery.ui.theme.css?qkl8wj");
+@import url("https://www.baovietbank.vn/misc/ui/jquery.ui.resizable.css?qkl8wj");</style>
+<style>@import url("https://www.baovietbank.vn/sites/all/modules/back_to_top/css/back_to_top_text.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/adaptive_image/css/adaptive-image.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/date/date_api/date.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?qkl8wj");
+@import url("https://www.baovietbank.vn/modules/field/theme/field.css?qkl8wj");</style>
+<style media="screen">@import url("https://www.baovietbank.vn/sites/all/modules/flexslider/assets/css/flexslider_img.css?qkl8wj");</style>
+<style>@import url("https://www.baovietbank.vn/modules/node/node.css?qkl8wj");
+@import url("https://www.baovietbank.vn/modules/search/search.css?qkl8wj");
+@import url("https://www.baovietbank.vn/modules/user/user.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/views/css/views.css?qkl8wj");</style>
+<style>@import url("https://www.baovietbank.vn/sites/all/libraries/chosen/chosen/chosen.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/chosen/css/chosen-drupal.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/colorbox/styles/default/colorbox_default_style.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/ctools/css/ctools.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/dhtml_menu/dhtml_menu.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/nice_menus/nice_menus.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/nice_menus/nice_menus_default.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/views_slideshow/views_slideshow.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/vinno_window/js/css/jquery.window.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/libraries/nivo-slider/nivo-slider.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/libraries/nivo-slider/themes/default/default.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/views_nivo_slider/views_nivo_slider.css?qkl8wj");
+@import url("https://www.baovietbank.vn/modules/locale/locale.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/tb_megamenu/fonts/font-awesome/css/font-awesome.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/tb_megamenu/css/bootstrap.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/tb_megamenu/css/base.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/tb_megamenu/css/default.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/tb_megamenu/css/styles/blue.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/modules/custom_search/custom_search.css?qkl8wj");</style>
+<style>.tb-megamenu.animate .mega > .mega-dropdown-menu,.tb-megamenu.animate.slide .mega > .mega-dropdown-menu > div{transition-delay:100ms;-webkit-transition-delay:100ms;-ms-transition-delay:100ms;-o-transition-delay:100ms;transition-duration:400ms;-webkit-transition-duration:400ms;-ms-transition-duration:400ms;-o-transition-duration:400ms;}
+</style>
+<style>@import url("https://www.baovietbank.vn/sites/all/modules/responsive_menus/styles/mean_menu/css/meanmenu.css?qkl8wj");</style>
+
+<!--[if lt IE 10]>
+<style>@import url("https://www.baovietbank.vn/sites/default/files/ctools/css/e4deca9a1f30e06a8bcc74a0132f762c.css?qkl8wj");</style>
+<![endif]-->
+<style media="screen">@import url("https://www.baovietbank.vn/sites/all/themes/adaptivetheme/at_core/css/at.settings.style.floatblocks.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/themes/baoviettheme/css/global.base.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/all/themes/baoviettheme/css/global.styles.css?qkl8wj");</style>
+<link type="text/css" rel="stylesheet" href="https://www.baovietbank.vn/sites/default/files/adaptivetheme/baoviettheme_files/baoviettheme.responsive.layout.css?qkl8wj" media="only screen" />
+<style media="screen">@import url("https://www.baovietbank.vn/sites/default/files/adaptivetheme/baoviettheme_files/baoviettheme.fonts.css?qkl8wj");</style>
+<link type="text/css" rel="stylesheet" href="https://www.baovietbank.vn/sites/all/themes/baoviettheme/css/responsive.custom.css?qkl8wj" media="only screen" />
+<link type="text/css" rel="stylesheet" href="https://www.baovietbank.vn/sites/all/themes/baoviettheme/css/responsive.smartphone.portrait.css?qkl8wj" media="only screen and (max-width:320px)" />
+<link type="text/css" rel="stylesheet" href="https://www.baovietbank.vn/sites/all/themes/baoviettheme/css/responsive.smartphone.landscape.css?qkl8wj" media="only screen and (min-width:321px) and (max-width:480px)" />
+<link type="text/css" rel="stylesheet" href="https://www.baovietbank.vn/sites/all/themes/baoviettheme/css/responsive.tablet.portrait.css?qkl8wj" media="only screen and (min-width:481px) and (max-width:768px)" />
+<link type="text/css" rel="stylesheet" href="https://www.baovietbank.vn/sites/all/themes/baoviettheme/css/responsive.tablet.landscape.css?qkl8wj" media="only screen and (min-width:769px) and (max-width:1024px)" />
+<link type="text/css" rel="stylesheet" href="https://www.baovietbank.vn/sites/all/themes/baoviettheme/css/responsive.desktop.css?qkl8wj" media="only screen and (min-width:1025px)" />
+
+<!--[if (lt IE 9)&(!IEMobile 7)]>
+<style media="screen">@import url("https://www.baovietbank.vn/sites/default/files/adaptivetheme/baoviettheme_files/baoviettheme.lt-ie9.layout.css?qkl8wj");</style>
+<![endif]-->
+<style>@import url("https://www.baovietbank.vn/sites/default/files/css_injector/css_injector_1.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/default/files/css_injector/css_injector_3.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/default/files/css_injector/css_injector_8.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/default/files/css_injector/css_injector_16.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/default/files/css_injector/css_injector_23.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/default/files/css_injector/css_injector_30.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/default/files/css_injector/css_injector_33.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/default/files/css_injector/css_injector_34.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/default/files/css_injector/css_injector_38.css?qkl8wj");
+@import url("https://www.baovietbank.vn/sites/default/files/css_injector/css_injector_39.css?qkl8wj");</style>
+<script src="https://www.baovietbank.vn/sites/default/files/google_tag/language/google_tag.en.script.js?qkl8wj"></script>
+<script>document.cookie = 'adaptive_image=' + Math.max(screen.width, screen.height) + '; path=/';</script>
+<script src="https://www.baovietbank.vn/sites/all/modules/jquery_update/replace/jquery/1.5/jquery.min.js?v=1.5.2"></script>
+<script src="https://www.baovietbank.vn/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.baovietbank.vn/misc/drupal.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/jquery_dollar/jquery_dollar.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/equalheights/jquery.equalheights.js?v=1.0"></script>
+<script src="https://www.baovietbank.vn/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script src="https://www.baovietbank.vn/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script src="https://www.baovietbank.vn/misc/ui/jquery.effects.core.min.js?v=1.8.7"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/qtip/library/jquery.qtip.js?v=2.0.0pre"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/qtip/js/qtip.js?v=2.0.0pre"></script>
+<script src="https://www.baovietbank.vn/misc/ui/jquery.ui.mouse.min.js?v=1.8.7"></script>
+<script src="https://www.baovietbank.vn/misc/ui/jquery.ui.draggable.min.js?v=1.8.7"></script>
+<script src="https://www.baovietbank.vn/misc/ui/jquery.ui.resizable.min.js?v=1.8.7"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/back_to_top/js/back_to_top.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/admin_menu/admin_devel/admin_devel.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/equalheights/equalheights.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/addthis/addthis.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/libraries/chosen/chosen/chosen.jquery.min.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/libraries/colorbox/colorbox/jquery.colorbox-min.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/colorbox/js/colorbox.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/colorbox/styles/default/colorbox_default_style.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/colorbox/js/colorbox_load.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/colorbox/js/colorbox_inline.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/dhtml_menu/dhtml_menu.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/nice_menus/superfish/js/superfish.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/nice_menus/superfish/js/jquery.bgiframe.min.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/nice_menus/superfish/js/jquery.hoverIntent.minified.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/nice_menus/nice_menus.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/views_slideshow/js/views_slideshow.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/vinno_window/js/jquery.window.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/vinno_window/vinno_window.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/custom_search/js/custom_search.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/libraries/nivo-slider/jquery.nivo.slider.pack.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/views_nivo_slider/views_nivo_slider.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/tb_megamenu/js/tb-megamenu-frontend.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/tb_megamenu/js/tb-megamenu-touch.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/responsive_menus/styles/mean_menu/js/jquery.meanmenu.2.0.min.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/responsive_menus/styles/mean_menu/js/responsive_menus_mean_menu.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/all/modules/google_analytics/googleanalytics.js?qkl8wj"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-9797316-30"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="https://www.baovietbank.vn/sites/all/themes/baoviettheme/adx.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/default/files/js_injector/js_injector_1.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/default/files/js_injector/js_injector_6.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/default/files/js_injector/js_injector_10.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/default/files/js_injector/js_injector_12.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/default/files/js_injector/js_injector_15.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/default/files/js_injector/js_injector_16.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/default/files/js_injector/js_injector_18.js?qkl8wj"></script>
+<script src="https://www.baovietbank.vn/sites/default/files/js_injector/js_injector_20.js?qkl8wj"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"baoviettheme","theme_token":"CfFGAcOJglz4-6nb1DzaigsCHDknJutbNbOGPaGusiI","js":{"0":1,"sites\/all\/modules\/chosen\/chosen.js":1,"public:\/\/google_tag\/language\/google_tag.en.script.js":1,"1":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.5\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_dollar\/jquery_dollar.js":1,"sites\/all\/modules\/equalheights\/jquery.equalheights.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.effects.core.min.js":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.js":1,"sites\/all\/modules\/qtip\/js\/qtip.js":1,"misc\/ui\/jquery.ui.mouse.min.js":1,"misc\/ui\/jquery.ui.draggable.min.js":1,"misc\/ui\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/back_to_top\/js\/back_to_top.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/equalheights\/equalheights.js":1,"sites\/all\/modules\/addthis\/addthis.js":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.jquery.min.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/vinno_window\/js\/jquery.window.js":1,"sites\/all\/modules\/vinno_window\/vinno_window.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/libraries\/nivo-slider\/jquery.nivo.slider.pack.js":1,"sites\/all\/modules\/views_nivo_slider\/views_nivo_slider.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/modules\/responsive_menus\/styles\/mean_menu\/js\/jquery.meanmenu.2.0.min.js":1,"sites\/all\/modules\/responsive_menus\/styles\/mean_menu\/js\/responsive_menus_mean_menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/themes\/baoviettheme\/adx.js":1,"sites\/default\/files\/js_injector\/js_injector_1.js":1,"sites\/default\/files\/js_injector\/js_injector_6.js":1,"sites\/default\/files\/js_injector\/js_injector_10.js":1,"sites\/default\/files\/js_injector\/js_injector_12.js":1,"sites\/default\/files\/js_injector\/js_injector_15.js":1,"sites\/default\/files\/js_injector\/js_injector_16.js":1,"sites\/default\/files\/js_injector\/js_injector_18.js":1,"sites\/default\/files\/js_injector\/js_injector_20.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/qtip\/library\/jquery.qtip.css":1,"sites\/all\/modules\/qtip\/css\/qtip.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"sites\/all\/modules\/back_to_top\/css\/back_to_top_text.css":1,"sites\/all\/modules\/adaptive_image\/css\/adaptive-image.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/libraries\/chosen\/chosen\/chosen.css":1,"sites\/all\/modules\/chosen\/css\/chosen-drupal.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.css":1,"sites\/all\/modules\/nice_menus\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/nice_menus_default.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/vinno_window\/js\/css\/jquery.window.css":1,"sites\/all\/libraries\/nivo-slider\/nivo-slider.css":1,"sites\/all\/libraries\/nivo-slider\/themes\/default\/default.css":1,"sites\/all\/modules\/views_nivo_slider\/views_nivo_slider.css":1,"modules\/locale\/locale.css":1,"sites\/all\/modules\/tb_megamenu\/fonts\/font-awesome\/css\/font-awesome.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/styles\/blue.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"0":1,"sites\/all\/modules\/responsive_menus\/styles\/mean_menu\/css\/meanmenu.css":1,"public:\/\/ctools\/css\/e4deca9a1f30e06a8bcc74a0132f762c.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.floatblocks.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/baoviettheme\/css\/global.base.css":1,"sites\/all\/themes\/baoviettheme\/css\/global.styles.css":1,"public:\/\/adaptivetheme\/baoviettheme_files\/baoviettheme.responsive.layout.css":1,"public:\/\/adaptivetheme\/baoviettheme_files\/baoviettheme.fonts.css":1,"sites\/all\/themes\/baoviettheme\/css\/responsive.custom.css":1,"sites\/all\/themes\/baoviettheme\/css\/responsive.smartphone.portrait.css":1,"sites\/all\/themes\/baoviettheme\/css\/responsive.smartphone.landscape.css":1,"sites\/all\/themes\/baoviettheme\/css\/responsive.tablet.portrait.css":1,"sites\/all\/themes\/baoviettheme\/css\/responsive.tablet.landscape.css":1,"sites\/all\/themes\/baoviettheme\/css\/responsive.desktop.css":1,"public:\/\/adaptivetheme\/baoviettheme_files\/baoviettheme.lt-ie9.layout.css":1,"public:\/\/css_injector\/css_injector_1.css":1,"public:\/\/css_injector\/css_injector_3.css":1,"public:\/\/css_injector\/css_injector_8.css":1,"public:\/\/css_injector\/css_injector_16.css":1,"public:\/\/css_injector\/css_injector_23.css":1,"public:\/\/css_injector\/css_injector_30.css":1,"public:\/\/css_injector\/css_injector_33.css":1,"public:\/\/css_injector\/css_injector_34.css":1,"public:\/\/css_injector\/css_injector_38.css":1,"public:\/\/css_injector\/css_injector_39.css":1}},"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_prevent_on_mobile":1,"back_to_top_prevent_in_admin":1,"back_to_top_button_type":"text"},"chosen":{"selector":"","minimum":"5","minimum_width":"200","search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true,"__drupal_alter_by_ref":["default"]},"dhtmlMenu":{"nav":"open","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"500"},"effects":{"siblings":"close-same-tree","children":"none","remember":"0"},"filter":{"type":"whitelist","list":{"menu-danh-cho-co-dong":"menu-danh-cho-co-dong","menu-danh-cho-doanh-nghiep":"menu-danh-cho-doanh-nghiep","menu-menu-bao-hiem":"menu-menu-bao-hiem","menu-menu-chi-tiet-sp":"menu-menu-chi-tiet-sp","menu-menu-duyet-sanpham":"menu-menu-duyet-sanpham","menu-menu-duyet-tin":"menu-menu-duyet-tin","menu-menu-left-qtri":"menu-menu-left-qtri","menu-menu-lien-ket-nhanh":"menu-menu-lien-ket-nhanh","menu-menu-top":"menu-menu-top","devel":0,"main-menu":0,"management":0,"menu-clone-site-map":0,"menu-internet-banking":0,"menu-menu-footer":0,"menu-menu-footer-quan-tri":0,"menu-menu-gioi-thieu":0,"menu-menu-lk-nhanh-lai-suat":0,"menu-menu-san-pham":0,"menu-menu-tin-tuc":0,"menu-menu-top-spta":0,"menu-menu-top-sptv":0,"menu-quan-tri-website":0,"menu-site-map":0,"menu-th-m-n-i-dung":0,"menu-th-vi-n":0,"navigation":0,"user-menu":0}}},"nice_menus_options":{"delay":"800","speed":"fast"},"qtip":{"target_position":"top_center","tooltip_position":"bottom_center","show_speech_bubble_tip":1,"show_speech_bubble_tip_side":1,"speech_bubble_size":"12","show_speech_bubble_tip_solid":1,"show_shadow":1,"rounded_corners":1,"color":"ui-tooltip-light","custom_color":"","show_event_type":"mouseenter","hide_event_type":"mouseleave","show_webform_descriptions":0,"additional_elements":""},"custom_search":{"form_target":"_self","solr":0},"views_nivo_slider":{"views-nivo-slider-quangcao_slidehome-block":{"startSlide":0,"effect":"boxRainGrow","slices":15,"animSpeed":500,"pauseTime":5000,"directionNav":false,"directionNavHide":true,"controlNav":true,"controlNavThumbs":false,"pauseOnHover":true,"manualAdvance":false,"captionOpacity":0.8,"version":"2.7.x","controlNavThumbsFromRel":false,"keyboardNav":true}},"responsive_menus":[{"selectors":"#block-menu-menu-menu-top","trigger_txt":"\u003Cspan \/\u003E\u003Cspan \/\u003E\u003Cspan \/\u003E","close_txt":"X","close_size":"18px","position":"right","media_size":"768","show_children":"1","expand_children":"1","expand_txt":"+","contract_txt":"-","remove_attrs":"1","responsive_menus_style":"mean_menu"}],"addthis":{"widget_url":"https:\/\/baovietbank.vn\/sites\/all\/libraries\/addthis\/addthis_widget.js#pubid=ra-51e3bcce4e5dbb63?async=1"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});</script>
+<!--[if lt IE 9]>
+<script src="https://www.baovietbank.vn/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?qkl8wj"></script>
+<![endif]-->
+</head>
+<body class="html front not-logged-in no-sidebars page-node i18n-en site-name-hidden lang-en site-name-baoviet-bank">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top"><div class="region-inner clearfix"><noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8TTJGF" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager">Google Tag Manager</iframe></noscript></div></div>  <div id="page" class="container page">
+
+  <!-- region: Leaderboard -->
+  <div class="region region-leaderboard"><div class="region-inner clearfix"><div id="block-block-5" class="block block-block no-title odd first last block-count-12 block-region-leaderboard block-5" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div>
+<div id="#backtotop" style="display: none;">Back To Top</div>
+<div id="block-menu-menu-menu-top" class="block block-menu no-title even block-count-8 block-region--1 block-menu-menu-top" role="navigation">
+<div class="block-inner clearfix">
+<div class="block-content content">
+<ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-442"><a href="/en" title="Home" class="active">Home</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-792"><a href="/en/introduction/introduction" title="About Us">About Us</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-879"><a href="/en/tin-tuc" title="News">News</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1544"><a href="/en/mang-luoi-hoat-dong" title="Networks">Networks</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-794"><a href="/en/mang-luoi" title="Network">Networks</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-796"><a href="/en/tuyen-dung" title="Careers">Careers</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-795"><a href="/en/financial-statements" title="Investors">Investors</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-834"><a href="tel:1900558848" title="Call Center">Call Center</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div id="block-locale-language" class="block block-locale no-title odd block-count-9 block-region--1 block-language" role="complementary">
+<div class="block-inner clearfix">
+<div class="block-content content">
+<ul class="language-switcher-locale-url"><li class="en first active"><a href="/en" class="language-link active" lang="en" xml:lang="en">English</a></li>
+<li class="vi last"><a href="/vi" class="language-link" lang="vi" xml:lang="vi">Tiếng Việt</a></li>
+</ul></div>
+</div>
+</div>
+<div id="block-menu-menu-internet-banking" class="block block-menu no-title even block-count-10 block-region--1 block-menu-internet-banking" role="navigation">
+<div class="block-inner clearfix">
+<div class="block-content content">
+<ul class="menu"><li class="first last leaf"><a href="https://ebank.baovietbank.vn/login.aspx" title="Internet Banking" target="_blank">Internet Banking</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+</div>
+  </div></div></div></div>
+  <header id="header" class="clearfix" role="banner">
+
+          <!-- start: Branding -->
+      <div id="branding" class="branding-elements clearfix">
+
+        
+                  <!-- start: Site name and Slogan hgroup -->
+          <hgroup class="element-invisible" id="name-and-slogan">
+
+            
+          </hgroup><!-- /end #name-and-slogan -->
+        
+      </div><!-- /end #branding -->
+    
+    <!-- region: Header -->
+    <div class="region region-header"><div class="region-inner clearfix"><div id="block-nodeblock-50" class="block block-nodeblock no-title odd first block-count-13 block-region-header block-50" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="node-50" class="node node-blocks node-teaser en article even node-lang-en clearfix" about="/en/logo-bao-viet" typeof="sioc:Item foaf:Document" role="article">
+
+        
+  
+  <div class="content" class="node-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser"><div class="field-items"><div class="field-item even" property="content:encoded"><div><a href="https://www.baovietbank.vn/en"><img src="/images/baovietbank/logo_baovietbank.png"/></a></div></div></div></div>  </div>
+
+  
+  
+</div>
+</div>
+  </div></div><div id="block-tb-megamenu-menu-menu-top-spta" class="block block-tb-megamenu no-title even last block-count-14 block-region-header block-menu-menu-top-spta" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div  data-duration="400" data-delay="100" id="tb-megamenu-menu-menu-top-spta" class="tb-megamenu tb-megamenu-menu-menu-top-spta style-blue animate fading">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="icon-reorder"></i>
+    </button>
+    <div class="nav-collapse collapse">
+    <ul  class="tb-megamenu-nav nav level-0 items-4">
+  <li  data-id="1160" data-level="1" data-type="menu_item" data-class="menu-individuals" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega menu-individuals mega-align-justify dropdown">
+  <a href="/en/retail" class="dropdown-toggle">
+        
+    Retail          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="582" style="width: 582px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="column1" data-width="4" data-hidewcol="0" id="tb-megamenu-column-3" class="tb-megamenu-column span4  mega-col-nav column1">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li  data-id="1164" data-level="2" data-type="menu_item" data-class="tiet-kiem" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega tiet-kiem mega-group">
+  <a href="#" class="mega-group-title">
+        
+    Accounts and Deposits          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-1" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-4">
+  <li  data-id="2746" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/accounts-and-deposits/current-account" class="">
+        
+    Current Account          </a>
+  </li>
+
+<li  data-id="1592" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/retail/progressive-interest-savings" class="">
+        
+    Progressive Interest Savings          </a>
+  </li>
+
+<li  data-id="1181" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/accounts-and-deposits/savings-account" class="">
+        
+    Savings Account          </a>
+  </li>
+
+<li  data-id="2747" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/accounts-and-deposits/tich-truong-phu-savings" class="">
+        
+    Gom Loc Phat Tai           </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="2963" data-level="2" data-type="menu_item" data-class="chuyen-tien" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega chuyen-tien mega-group">
+  <a href="#" class="mega-group-title">
+        
+    Remittance Service          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-2" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-1">
+  <li  data-id="2964" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/remittance-service/receiving-money-oversea-western-union" class="">
+        
+    Receiving money oversea via Western Union          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="column2" data-width="4" data-hidewcol="" id="tb-megamenu-column-5" class="tb-megamenu-column span4  mega-col-nav column2">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li  data-id="1165" data-level="2" data-type="menu_item" data-class="cho-vay" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega cho-vay mega-group">
+  <a href="#" class="mega-group-title">
+        
+    Loans          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-4" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-10">
+  <li  data-id="1172" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/loans/salary-overdrafts-0" class="">
+        
+    Salary Overdrafts          </a>
+  </li>
+
+<li  data-id="1182" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/loans/secured-overdrafts-0" class="">
+        
+    Secured Overdrafts          </a>
+  </li>
+
+<li  data-id="2748" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/loans/household-overfrafts" class="">
+        
+    Household Overdrafts          </a>
+  </li>
+
+<li  data-id="2752" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/loans/business-car-loans" class="">
+        
+    Business Car loans          </a>
+  </li>
+
+<li  data-id="2753" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/loans/car-loans-0" class="">
+        
+    Car Loans          </a>
+  </li>
+
+<li  data-id="2754" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/loans/loans-project-house" class="">
+        
+    Loans for project house          </a>
+  </li>
+
+<li  data-id="2756" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/loans/unsecured-loans" class="">
+        
+    Unsecured Loans          </a>
+  </li>
+
+<li  data-id="2757" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/loans/household-loans-0" class="">
+        
+    Household Loans          </a>
+  </li>
+
+<li  data-id="2758" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/loans/study-abroad-loans" class="">
+        
+    Study abroad Loans          </a>
+  </li>
+
+<li  data-id="2761" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/loans/loans-buying-building-and-repairing-house" class="">
+        
+    Loans for Buying, building and repairing houses          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="column3" data-width="4" data-hidewcol="" id="tb-megamenu-column-8" class="tb-megamenu-column span4  mega-col-nav column3">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li  data-id="1166" data-level="2" data-type="menu_item" data-class="dich-vu-the" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dich-vu-the mega-group">
+  <a href="#" class="mega-group-title">
+        
+    Cards          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-6" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-5">
+  <li  data-id="2762" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/cards/bvlink" class="">
+        
+    BVLink          </a>
+  </li>
+
+<li  data-id="3274" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/cards/baoviet-bank-visa-credit-card" class="">
+        
+    BVB Visa Credit Card          </a>
+  </li>
+
+<li  data-id="2786" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/cards/bvip" class="">
+        
+    BVIP          </a>
+  </li>
+
+<li  data-id="3275" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/cards/thanh-toan-truc-tuyen-bvb-ecom" class="">
+        
+    BVB ECOM          </a>
+  </li>
+
+<li  data-id="2792" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/cards/cash-advance" class="">
+        
+    Cash advance          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="2788" data-level="2" data-type="menu_item" data-class="ngan-hang-dien-tu" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega ngan-hang-dien-tu mega-group">
+  <a href="#" class="mega-group-title">
+        
+    E-Banking          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-7" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+  <li  data-id="2789" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/e-banking/baoviet-i-banking" class="">
+        
+    BAOVIET I-Banking          </a>
+  </li>
+
+<li  data-id="2790" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/e-banking/mobile-banking" class="">
+        
+    Mobile Banking          </a>
+  </li>
+
+<li  data-id="2791" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/e-banking/phone-banking" class="">
+        
+    Phone Banking          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="1161" data-level="1" data-type="menu_item" data-class="menu-corporates" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega menu-corporates mega-align-justify dropdown">
+  <a href="/en/corporates" class="dropdown-toggle">
+        
+    Corporates          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="582" style="width: 582px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="column1" data-width="4" data-hidewcol="0" id="tb-megamenu-column-10" class="tb-megamenu-column span4  mega-col-nav column1">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li  data-id="1167" data-level="2" data-type="menu_item" data-class="tiet-kiem" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega tiet-kiem mega-group">
+  <a href="#" class="mega-group-title">
+        
+    Deposit and Account          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-9" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+  <li  data-id="1173" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="http://baovietbank.vn/en/deposit-and-account/deposit-and-account" class="">
+        
+    Deposit and Account Services          </a>
+  </li>
+
+<li  data-id="2718" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="http://baovietbank.vn/en/deposit-and-account/cashflow-management-0" class="">
+        
+    Cashflow Management          </a>
+  </li>
+
+<li  data-id="1598" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/deposit-and-account/payroll-plus" class="">
+        
+    Payroll Plus           </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="column2" data-width="4" data-hidewcol="" id="tb-megamenu-column-12" class="tb-megamenu-column span4  mega-col-nav column2">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li  data-id="1168" data-level="2" data-type="menu_item" data-class="cho-vay" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega cho-vay mega-group">
+  <a href="#" class="mega-group-title">
+        
+    Credit - Guarantee           <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-11" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-6">
+  <li  data-id="1174" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/credit/working-capital-financing-0" class="">
+        
+    Working Capital Financing          </a>
+  </li>
+
+<li  data-id="2719" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="http://baovietbank.vn/en/credit/project-financing-0" class="">
+        
+    Project Financing          </a>
+  </li>
+
+<li  data-id="2720" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/credit/flexible-capital-financing" class="">
+        
+    Flexible Capital Financing          </a>
+  </li>
+
+<li  data-id="1597" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/credit/car-financing-0" class="">
+        
+    Car Financing          </a>
+  </li>
+
+<li  data-id="2721" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/credit/overdraft" class="">
+        
+    Overdraft          </a>
+  </li>
+
+<li  data-id="2722" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/guarantees/guarantees" class="">
+        
+    Guarantees          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="column3" data-width="4" data-hidewcol="" id="tb-megamenu-column-14" class="tb-megamenu-column span4  mega-col-nav column3">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li  data-id="2410" data-level="2" data-type="menu_item" data-class="tai-tro-thuong-mai" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega tai-tro-thuong-mai mega-group">
+  <a href="#" class="mega-group-title">
+        
+    Trade Finance          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-13" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+  <li  data-id="2723" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/en/trade-finance/vnd-export-financing-usd-interest-rate" class="">
+        
+    Export Finance in VND with USD interest          </a>
+  </li>
+
+<li  data-id="2724" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="http://baovietbank.vn/en/trade-finance/export-bill-discounting" class="">
+        
+    Export Bill Discounting          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="1162" data-level="1" data-type="menu_item" data-class="menu-bao-hiem" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega menu-bao-hiem mega-align-justify dropdown">
+  <a href="/en/bancassurance-0" class="dropdown-toggle">
+        
+    Bancassurance          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="582" style="width: 582px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="column1" data-width="8" data-hidewcol="0" id="tb-megamenu-column-19" class="tb-megamenu-column span8  mega-col-nav column1">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li  data-id="1169" data-level="2" data-type="menu_item" data-class="ca-nhan" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega ca-nhan mega-group">
+  <a href="#" class="mega-group-title">
+        
+    Retail          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="6" data-hidewcol="0" id="tb-megamenu-column-16" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-1">
+  <li  data-id="2411" data-level="3" data-type="menu_item" data-class="tiet-kiem" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega tiet-kiem mega-group">
+  <a href="#" class="mega-group-title">
+        
+    Link Insurance          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-15" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-3 items-5">
+  <li  data-id="1591" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/retail/tin-tai-nghiep-insurance-unsecured-loans" class="">
+        
+    Tin Tai Nghiep (Insurance for Unsecured Loans)          </a>
+  </li>
+
+<li  data-id="1593" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/retail/tin-an-gia-insurance-project-house-loans" class="">
+        
+    Tin An Gia (Insurance for Project House Loans)          </a>
+  </li>
+
+<li  data-id="1594" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/retail/tin-phat-loc-insurance-car-loans" class="">
+        
+    Tin Phat Loc (Insurance for Car Loans)          </a>
+  </li>
+
+<li  data-id="1595" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/retail/tin-an-thinh-insurance-overdrafts-loans" class="">
+        
+    Tin An Thinh (Insurance for Overdrafts Loans)          </a>
+  </li>
+
+<li  data-id="1596" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/retail/tin-an-nghiep-insurance-overdrafts-against-salary" class="">
+        
+    Tin An Nghiep (Insurance for against Overdrafts)          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-18" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-1">
+  <li  data-id="2666" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega mega-group">
+  <a href="#" class="mega-group-title">
+        
+    Insurance          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-17" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-3 items-4">
+  <li  data-id="1176" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/retail/private-house-insurance" class="">
+        
+    Private House Insurance          </a>
+  </li>
+
+<li  data-id="2751" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/retail/vehicle-insurance" class="">
+        
+    Vehicle Insurance          </a>
+  </li>
+
+<li  data-id="2760" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/retail/health-care" class="">
+        
+    Health Care          </a>
+  </li>
+
+<li  data-id="2771" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/retail/personal-accidents-insurance" class="">
+        
+    Personal Accident Insurance          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="column2" data-width="4" data-hidewcol="" id="tb-megamenu-column-22" class="tb-megamenu-column span4  mega-col-nav column2">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li  data-id="1170" data-level="2" data-type="menu_item" data-class="doanh-nghiep" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega doanh-nghiep mega-group">
+  <a href="#" class="mega-group-title">
+        
+    Corporates          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-21" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-1">
+  <li  data-id="2667" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega mega-group">
+  <a href="#" class="mega-group-title">
+        
+    Insurance          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-20" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-3 items-6">
+  <li  data-id="1175" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/corporates/health-insurance" class="">
+        
+    Health Insurance          </a>
+  </li>
+
+<li  data-id="1590" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/corporates/car-insurance" class="">
+        
+    Car Insurance          </a>
+  </li>
+
+<li  data-id="1588" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/corporates/property-insurance" class="">
+        
+    Property Insurance          </a>
+  </li>
+
+<li  data-id="1589" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/corporates/cargo-insurance" class="">
+        
+    Cargo Insurance          </a>
+  </li>
+
+<li  data-id="2725" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/corporates/contractors-contruction-and-erection-insurance" class="">
+        
+    Contractors' Contruction  and Erection Insurance          </a>
+  </li>
+
+<li  data-id="2726" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+  <a href="/en/corporates/contractors-plant-and-machinery-insurance" class="">
+        
+    Contractors' Plant and Machinery Insurance          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="1163" data-level="1" data-type="menu_item" data-class="baovietsearch" data-xicon="" data-caption="" data-alignsub="right" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega baovietsearch mega-align-right dropdown">
+  <a href="#" class="dropdown-toggle">
+        
+    Search          <span class="caret"></span>
+          </a>
+  <div  data-class="mega-search-block" data-width="205" style="width: 205px;" class="tb-megamenu-submenu mega-search-block dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="" id="tb-megamenu-column-23" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div  data-type="block" data-block="search--form" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <div id="block-search-form" class="block block-search no-title odd block-count-11 block-region--1 block-form"  role="search"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><form class="search-form" action="/en" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search this site </label>
+ <input title="Nhập điều kiện tìm kiếm." class="custom-search-box form-text" placeholder="Từ khóa tìm kiếm" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input alt="" class="custom-search-button form-submit" type="image" id="edit-submit" name="op" value="" src="https://www.baovietbank.vn/sites/default/files/custom_search/bg_buttom_search_0.png" /></div><input type="hidden" name="form_build_id" value="form-Qi-PqdS51N1PvYReDXKVpZEgAZzE7d9ujnKD9jhURno" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+  </div></div>  </div>
+</div>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+      </div>
+  </div>
+</div>
+  </div></div></div></div>
+  </header>
+
+  <!-- Navigation elements -->
+      
+  <!-- Messages and Help -->
+    
+  <!-- region: Secondary Content -->
+  <div class="region region-secondary-content"><div class="region-inner clearfix"><div id="block-block-8" class="block block-block no-title odd first block-count-15 block-region-secondary-content block-8" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div>
+<div id="block-views-quangcao-slidehome-block" class="block block-views no-title odd first block-count-1 block-region--1 block-quangcao-slidehome-block">
+<div class="block-inner clearfix">
+<div class="block-content content">
+<div class="view view-quangcao-slidehome view-id-quangcao_slidehome view-display-id-block view-dom-id-d6952693d0bb11c56caa62798da7f631">
+<div class="view-content">
+<div class="views-nivo-slider-view slider-wrapper theme-default">
+<div id="views-nivo-slider-quangcao_slidehome-block" class="views-nivo-slider clearfix">
+              <img typeof="foaf:Image" class="image-style-slide-home" src="https://www.baovietbank.vn/sites/default/files/styles/slide-home/public/slidehome/banner_website_th_manh_-_e-01.jpg?itok=PDsHdeY2" width="960" height="300" alt="" title="" /><img typeof="foaf:Image" class="image-style-slide-home" src="https://www.baovietbank.vn/sites/default/files/styles/slide-home/public/slidehome/banner_web_962_x300px-ta2.jpg?itok=rWVqlxid" width="960" height="300" alt="" title="" /><img typeof="foaf:Image" class="image-style-slide-home" src="https://www.baovietbank.vn/sites/default/files/styles/slide-home/public/slidehome/the_visa_-_banner_website_-01.jpg?itok=UzuZezp-" width="960" height="300" alt="" title="" /><img typeof="foaf:Image" class="image-style-slide-home" src="https://www.baovietbank.vn/sites/default/files/styles/slide-home/public/slidehome/banner_web_962_x300px-easy_carta2.jpg?itok=DzPQuzE4" width="960" height="300" alt="" title="" /><img typeof="foaf:Image" class="image-style-slide-home" src="https://www.baovietbank.vn/sites/default/files/styles/slide-home/public/slidehome/247_-_banner_website-01.jpg?itok=F3E32mvd" width="960" height="300" alt="" title="" /><img typeof="foaf:Image" class="image-style-slide-home" src="https://www.baovietbank.vn/sites/default/files/styles/slide-home/public/slidehome/banner_web_962_x300_engpx-2.jpg?itok=fRT3R97y" width="960" height="300" alt="" title="" /><img typeof="foaf:Image" class="image-style-slide-home" src="https://www.baovietbank.vn/sites/default/files/styles/slide-home/public/slidehome/glpt_-_banner_website-01_0.jpg?itok=QkHwgUft" width="960" height="300" alt="" title="" /><img typeof="foaf:Image" class="image-style-slide-home" src="https://www.baovietbank.vn/sites/default/files/styles/slide-home/public/slidehome/banner_cover_962_x300px-ta.jpg?itok=Wdo81DMe" width="960" height="300" alt="" title="" /><img typeof="foaf:Image" class="image-style-slide-home" src="https://www.baovietbank.vn/sites/default/files/styles/slide-home/public/slidehome/udls_-_banner_website_out_-01_0.jpg?itok=a42xQcoZ" width="960" height="300" alt="" title="" /></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-nodeblock-68" class="block block-nodeblock no-title even block-count-2 block-region--1 block-68">
+<div class="block-inner clearfix">
+<div class="block-content content">
+<div id="node-69" class="node node-blocks en article odd node-lang-en node-full clearfix" about="/en/internet-banking" typeof="sioc:Item foaf:Document" role="article">
+<div class="content">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even" property="content:encoded">
+<div>
+<div class="internet-banking">Internet Banking</div>
+<div class="personal"><a href="https://ebank.baovietbank.vn/login.aspx" target="_blank">Retail</a></div>
+<div class="doanhnghiep"><a href="https://ebank.baovietbank.vn/login.aspx" target="_blank">Corporates</a></div>
+<!--div class="dang-ky"><a href="#">Register</a></div--></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-nodeblock-67" class="block block-nodeblock no-title odd block-count-3 block-region--1 block-67">
+<div class="block-inner clearfix">
+<div class="block-content content">
+<div id="node-70" class="node node-blocks en article even node-lang-en node-full clearfix" about="/en/call-center" typeof="sioc:Item foaf:Document" role="article">
+<div class="content">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even" property="content:encoded">
+<div><a class="vinno_window" href="https://www.baovietbank.vn/en/node/396?w=800&amp;h=650"><img src="/sites/default/files/images/call-center-en.png" border="0" width="176" height="59" style="vertical-align: middle;" /></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+  </div></div><div id="block-nodeblock-363" class="block block-nodeblock no-title even last block-count-16 block-region-secondary-content block-363" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="node-363" class="node node-blocks en article odd node-lang-en node-full clearfix" about="/en/slogan-mid" typeof="sioc:Item foaf:Document" role="article">
+
+        
+  
+  <div class="content" class="node-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img src="/sites/default/files/images/chan_nhan_dien_website_0.png" border="0" width="960" height="25" style="border: 0;" /></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+</div>
+  </div></div></div></div>
+  <div id="columns" class="columns clearfix">
+    <div id="content-column" class="content-column" role="main">
+      <div class="content-inner">
+
+	  <!-- Breadcrumbs -->
+	  
+        <!-- region: Highlighted -->
+        
+        <section id="main-content">
+
+          
+          
+          <!-- region: Main Content -->
+                      <div id="content" class="region">
+              <div id="block-views-loai-sanpham-block" class="block block-views no-title odd first block-count-17 block-region-content block-loai-sanpham-block" >  
+  
+  <div class="view view-loai-sanpham view-id-loai_sanpham view-display-id-block view-dom-id-840c4003aafdc85a06e46a22112091c5">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first loaisp">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/en/retail">Retail</a></span>  </div>  
+  <div class="views-field views-field-view">        <span class="field-content"><div class="view view-sanpham-trangchu view-id-sanpham_trangchu view-display-id-block view-dom-id-b6bf36c1bf7130419631f93e61ecab46">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-field-sanpham-anhdd">        <div class="field-content"><a href="/en/retail/progressive-interest-savings"><img typeof="foaf:Image" class="image-style-none" src="https://www.baovietbank.vn/sites/default/files/images/tk_laisuat_luy_tien_0.jpg" width="482" height="127" alt="" /></a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even loaisp">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/en/corporates">Corporates</a></span>  </div>  
+  <div class="views-field views-field-view">        <span class="field-content"><div class="view view-sanpham-trangchu view-id-sanpham_trangchu view-display-id-block view-dom-id-b65bd08c21591394b20dc56d096419a2">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-field-sanpham-anhdd">        <div class="field-content"><a href="/en/guarantees/guarantees"><img typeof="foaf:Image" class="image-style-none" src="https://www.baovietbank.vn/sites/default/files/images/doanh_nghiep_3_0.jpg" width="191" height="91" alt="" /></a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last loaisp">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/en/bancassurance-0">Bancassurance</a></span>  </div>  
+  <div class="views-field views-field-view">        <span class="field-content"><div class="view view-sanpham-trangchu view-id-sanpham_trangchu view-display-id-block view-dom-id-853aaf7f8cb10977edf77e4e0946790c">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-field-sanpham-anhdd">        <div class="field-content"><a href="/en/retail/tin-an-gia-insurance-project-house-loans"><img typeof="foaf:Image" class="image-style-none" src="https://www.baovietbank.vn/sites/default/files/images/banca_3_0_0.jpg" width="191" height="91" alt="" /></a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  </div><div id="block-views-loaisp-mobile-block" class="block block-views no-title even block-count-18 block-region-content block-loaisp-mobile-block" >  
+  
+  <div class="view view-loaisp-mobile view-id-loaisp_mobile view-display-id-block view-dom-id-f7c614741ed31fec40ab0d3205a69470">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first loaisp">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/en/retail">Retail</a></span>  </div>  
+  <div class="views-field views-field-view">        <span class="field-content"><div class="view view-sanpham-home-mobile view-id-sanpham_home_mobile view-display-id-block view-dom-id-9ce0aae336400d188de9eb348fb1a265">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-field-sanpham-anhdd">        <div class="field-content"><a href="/en/loans/loans-buying-building-and-repairing-house"><img typeof="foaf:Image" class="image-style-none" src="https://www.baovietbank.vn/sites/default/files/images/cv_sua_chua_mua_nha_0.jpg" width="482" height="127" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/en/loans/loans-buying-building-and-repairing-house">Loans for buying, Building and Repairing house</a></span>  </div>  
+  <div class="views-field views-field-field-sanpham-mota">        <div class="field-content"><p><em>BAOVIET Bank helps realize your beautiful intention.</em></p>
+</div>  </div></li>
+      </ul></div>    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="view view-sanpham-home-mobile view-id-sanpham_home_mobile view-display-id-attachment_1">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list-atthome">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/en/cards/thanh-toan-truc-tuyen-bvb-ecom">THANH TOÁN TRỰC TUYẾN BVB-Ecom</a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/en/cards/baoviet-bank-visa-credit-card"> BAOVIET Bank Visa credit card</a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/en/cards/privileges">PRIVILEGES</a></span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+</div></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even loaisp">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/en/corporates">Corporates</a></span>  </div>  
+  <div class="views-field views-field-view">        <span class="field-content"><div class="view view-sanpham-home-mobile view-id-sanpham_home_mobile view-display-id-block view-dom-id-fc0888c103e2ad03cbafba6b43c35530">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-field-sanpham-anhdd">        <div class="field-content"><a href="/en/guarantees/guarantees"><img typeof="foaf:Image" class="image-style-none" src="https://www.baovietbank.vn/sites/default/files/images/doanh_nghiep_3_0.jpg" width="191" height="91" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/en/guarantees/guarantees">Guarantees</a></span>  </div>  
+  <div class="views-field views-field-field-sanpham-mota">        <div class="field-content"><p><em>This is to timely meet enterprise’s demand to ensure the implementation of the obligations committed with...</em></p></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="view view-sanpham-home-mobile view-id-sanpham_home_mobile view-display-id-attachment_1">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list-atthome">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/en/trade-finance/vnd-export-financing-usd-interest-rate">VND Export Financing With USD Interest Rate</a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/en/credit/flexible-capital-financing">Flexible Capital Financing</a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/en/trade-finance/export-bill-discounting">Export Bill Discounting</a></span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+</div></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last loaisp">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/en/bancassurance-0">Bancassurance</a></span>  </div>  
+  <div class="views-field views-field-view">        <span class="field-content"><div class="view view-sanpham-home-mobile view-id-sanpham_home_mobile view-display-id-block view-dom-id-817aedc820f26d98b0ff7f47ab1f2bc9">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-field-sanpham-anhdd">        <div class="field-content"><a href="/en/retail/tin-an-gia-insurance-project-house-loans"><img typeof="foaf:Image" class="image-style-none" src="https://www.baovietbank.vn/sites/default/files/images/banca_3_0_0.jpg" width="191" height="91" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/en/retail/tin-an-gia-insurance-project-house-loans">Tin An Gia (Insurance for Project house loans)</a></span>  </div>  
+  <div class="views-field views-field-field-sanpham-mota">        <div class="field-content"><p><em>With Tin An Gia Loans product, BAOVIET Bank gives you a hand to build your dream home with many good plans,...</em></p></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="view view-sanpham-home-mobile view-id-sanpham_home_mobile view-display-id-attachment_1">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list-atthome">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/en/corporates/health-insurance">Health Insurance</a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/en/corporates/property-insurance">Property Insurance</a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/en/corporates/car-insurance">Car Insurance</a></span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+</div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  </div><div id="block-block-32" class="block block-block no-title odd last block-count-19 block-region-content block-32" >  
+  
+  <ul id="countrytabs" class="quicktabs-tabs"><li class="even first"><a class="selected" href="#" rel="country1">News</a></li><li class="odd"><a href="https://www.baovietbank.vn/ty-gia">Exchange rates</a></li><li class="even last"><a href="#" rel="country3">Interest rates</a></li></ul><div class="quicktabs-container-tab_trangchu"><div id="country1" class="tabcontent"><div class="view view-tin-tuc view-id-tin_tuc view-display-id-block view-dom-id-bee0867e54066f5befea334a98ca30ba">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid cols-1">
+  
+  <tbody>
+          <tr class="row-1 row-first">
+                  <td class="col-1 col-first">
+              
+  <span class="views-field views-field-title">        <span class="field-content"><span class="qtip-link">
+	<span class="qtip-header">BAOVIET HAPPY HOUSE - Accompany with you to make your happy-house dream come true.</span>
+	<span class="qtip-tooltip">
+			<div class="mo-ta-tin-tuc"><i>Taking advantages of Finance – Insurance Group, continuing the success of bancassurance products  such as BAOVIET Easy Car, BAOVIET Easy Life lauching in 2016; on 21/4/2017, BAOVIET Bank co-...</i></div>
+	</span>
+	<div class="tieu-de"><a href="/en/baoviet-bank-news/baoviet-happy-house-accompany-you-make-your-happy-house-dream-come-true">BAOVIET HAPPY HOUSE - Accompany with you...</a></div> 
+</span></span>  </span>          </td>
+              </tr>
+          <tr class="row-2">
+                  <td class="col-1 col-first">
+              
+  <span class="views-field views-field-title">        <span class="field-content"><span class="qtip-link">
+	<span class="qtip-header">BAOVIET Bank’s Nominal Certificate of Deposit with 8.2% annual interest rate</span>
+	<span class="qtip-tooltip">
+			<div class="mo-ta-tin-tuc"><i>Thanks to the flexibility, safety and convenience, Certificate of deposit is one of the favorite choice of customers. To meet the customers’ demand, BAOVIET Bank publishes Nominal Certificate of...</i></div>
+	</span>
+	<div class="tieu-de"><a href="/en/baoviet-bank-news/baoviet-banks-nominal-certificate-deposit-82-annual-interest-rate-0">BAOVIET Bank’s Nominal Certificate of...</a></div> 
+</span></span>  </span>          </td>
+              </tr>
+          <tr class="row-3">
+                  <td class="col-1 col-first">
+              
+  <span class="views-field views-field-title">        <span class="field-content"><span class="qtip-link">
+	<span class="qtip-header">Flexible Saving – The optimal financial planning solution.</span>
+	<span class="qtip-tooltip">
+			<div class="mo-ta-tin-tuc"><i>With BAOVIET Bank’s flexible savings, customer can register to withdraw money many times with terms and fixed interest rate at the time of deposit. In case customer does not withdraw as registered...</i></div>
+	</span>
+	<div class="tieu-de"><a href="/en/baoviet-bank-news/flexible-saving-the-optimal-financial-planning-solution">Flexible Saving – The optimal financial...</a></div> 
+</span></span>  </span>          </td>
+              </tr>
+          <tr class="row-4">
+                  <td class="col-1 col-first">
+              
+  <span class="views-field views-field-title">        <span class="field-content"><span class="qtip-link">
+	<span class="qtip-header">22.000 Customers  participate in BAOVIET Mega Sale “ Spring Connection - Lunar  Gratitude” 2017</span>
+	<span class="qtip-tooltip">
+			<div class="mo-ta-tin-tuc"><i>The promotion campaign “Spring Connection - Lunar Gratitude” is the first BAOVIET Group’s integrated promotion campaign that brings various products such as Life insurance, Non-life insurance,...</i></div>
+	</span>
+	<div class="tieu-de"><a href="/en/baoviet-bank-news/22000-customers-participate-baoviet-mega-sale-spring-connection-lunar-gratitude">22.000 Customers  participate in BAOVIET...</a></div> 
+</span></span>  </span>          </td>
+              </tr>
+          <tr class="row-5 row-last">
+                  <td class="col-1 col-first">
+              
+  <span class="views-field views-field-title">        <span class="field-content"><span class="qtip-link">
+	<span class="qtip-header">Car loan at BAOVIET Bank with interest rate of 7% / year</span>
+	<span class="qtip-tooltip">
+			<div class="mo-ta-tin-tuc"><i>In order to provide maximum support to customers in production and business activities, BAOVIET Bank launches an incentive program for enterprises which are having demand of car loans for the...</i></div>
+	</span>
+	<div class="tieu-de"><a href="/en/baoviet-bank-news/car-loan-baoviet-bank-interest-rate-7-year">Car loan at BAOVIET Bank with interest...</a></div> 
+</span></span>  </span>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div><div id="country3" class="tabcontent"><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="header-tk">Savings Rates</div>
+<div class="item-tk">
+<ul><li><a href="en/lai-suat-tiet-kiem-vnd">VND Savings Rates</a></li>
+<li><a href="en/lai-suat-tiet-kiem-usd">USD savings rates</a></li>
+<li><a href="en/lai-suat-tiet-kiem-luy-tien">Progressive Savings Rates</a></li>
+</ul></div>
+<div class="header-tk">Corporates Rates</div>
+<div class="item-tk">
+<ul><li><a href="/en/lai-suat-huy-dong-vnd">VND Deposit Rates</a></li>
+<li><a href="/en/lai-suat-huy-dong-usd">USD deposit rates</a></li>
+</ul></div>
+</div></div></div></div></div>
+  </div>            </div>
+          
+          <!-- Feed icons (RSS, Atom icons etc -->
+          
+          
+        </section><!-- /end #main-content -->
+
+        <!-- region: Content Aside -->
+        
+      </div><!-- /end .content-inner -->
+    </div><!-- /end #content-column -->
+
+    <!-- regions: Sidebar first and Sidebar second -->
+        
+  </div><!-- /end #columns -->
+
+  <!-- region: Tertiary Content -->
+  <div class="region region-tertiary-content"><div class="region-inner clearfix"><div id="block-block-25" class="block block-block no-title odd first block-count-20 block-region-tertiary-content block-25" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><a href="#">Back To Top</a></div>
+  </div></div><div id="block-block-4" class="block block-block no-title even block-count-21 block-region-tertiary-content block-4" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div>
+<div id="block-menu-menu-menu-footer" class="block block-menu no-title even block-count-4 block-region--1 block-menu-menu-footer" role="navigation">
+<div class="block-inner clearfix">
+<div class="block-content content">
+<ul class="menu"><li class="first leaf"><a href="/en/terms-use" title="Terms of Use">Terms of Use</a></li>
+<li class="leaf"><a href="/en/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+<li class="leaf"><a href="/en/cards/privileges" title="Promotions">Promotions</a></li>
+<li class="leaf"><a href="/en/sitemap" title="Display a site map with RSS feeds.">Site Map</a></li>
+<li class="last leaf"><a href="https://mail.baovietbank.vn" title="BAOVIET Bank web mail" target="_blank">BAOVIET Bank web mail</a></li>
+</ul></div>
+</div>
+</div>
+<div id="block-nodeblock-60" class="block block-nodeblock no-title odd block-count-5 block-region--1 block-60">
+<div class="block-inner clearfix">
+<div class="block-content content">
+<div id="node-61" class="node node-blocks en article odd node-lang-en node-full clearfix" about="/en/thanh-vien-tap-doan-bao-viet-en" typeof="sioc:Item foaf:Document" role="article">
+<div class="content">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even" property="content:encoded">
+<div class="hover-footer">
+<ul><li><a href="#"><img src="/images/baovietbank/thanhvien_bv.png" border="0" /></a>
+<ul><li><a title="Đầu tư Bảo Việt" href="http://www.baoviet.com.vn/invest" target="_blank"><img src="/images/baovietbank/bv5.png" border="0" alt="Đầu tư Bảo Việt" style="border: 0;" /></a></li>
+<!--li><a title="Ngân hàng Bảo Việt" href="http://www.baovietbank.vn"><img src="/images/baovietbank/bv4.png" border="0" alt="Ngân hàng Bảo Việt" style="border: 0;" /></a></li--><li><a title="Quản lý Quỹ Bảo Việt" href="http://www.baovietfund.com.vn" target="_blank"><img src="/images/baovietbank/bv3.png" border="0" alt="Quản lý Quỹ Bảo Việt" style="border: 0;" /></a></li>
+<li><a title="Chứng khoán Bảo Việt" href="http://www.bvsc.com.vn" target="_blank"><img src="/images/baovietbank/bv2.png" border="0" alt="Chứng khoán Bảo Việt" style="border: 0;" /></a></li>
+<li><a title="Bảo Việt Nhân Thọ" href="http://www.baoviet.com.vn/nhantho/bvnt.asp" target="_blank"><img src="/images/baovietbank/bv6.png" border="0" alt="Bảo Việt Nhân Thọ" style="border: 0;" /></a></li>
+<li><a title="Bảo hiểm Bảo Việt" href="http://www.baoviet.com.vn/insurance" target="_blank"><img src="/images/baovietbank/bv1.png" border="0" alt="Bảo hiểm Bảo Việt" style="border: 0;" /></a></li>
+<li><a title="Tập đoàn Bảo Việt" href="http://www.baoviet.com.vn" target="_blank"><img src="/sites/default/files/images/baoviet-logo.jpg" border="0" alt="Tập đoàn Bảo Việt" style="border: 0;" /></a></li>
+</ul></li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+  </div></div><div id="block-block-35" class="block block-block no-title odd last block-count-22 block-region-tertiary-content block-35" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div style="display: none;">
+//<script src="/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js" type="text/javascript"></script>
+//<script>
+//jQuery.noConflict();
+//jQuery(document).ready(function () {
+//    var maxWidth = 768;
+//    if(document.body.clientWidth > maxWidth) {
+         //jq('#block-menu-menu-menu-top').meanmenu();
+//     } else $('#block-menu-menu-menu-top').meanmenu();
+//});
+//</script>
+</div></div>
+  </div></div></div></div>
+  <!-- region: Footer -->
+      <footer id="footer" class="clearfix" role="contentinfo">
+      <div class="region region-footer"><div class="region-inner clearfix"><div id="block-block-7" class="block block-block no-title odd first last block-count-23 block-region-footer block-7" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div>
+<div id="block-nodeblock-62" class="block block-nodeblock no-title even block-count-6 block-region--1 block-62">
+<div class="block-inner clearfix">
+<div class="block-content content">
+<div id="node-63" class="node node-blocks en article even node-lang-en node-full clearfix" about="/en/contact" typeof="sioc:Item foaf:Document" role="article">
+<div class="content">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even" property="content:encoded">
+<div class="address">Head Office: 1st and 5th Floor, Corner Stone Building, no 16 Phan Chu Trinh, Phan Chu Trinh ward, Hoan Kiem District, Hanoi - Tel: (84-4)3928 8989 - Fax: (84-4)3928 8899</div>
+<div class="copy-right">© 2013,  Copyright by <a href="https://www.baovietbank.vn/en"></a><a href="https://www.baovietbank.vn/en">BAOVIET Bank</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-nodeblock-64" class="block block-nodeblock no-title odd block-count-7 block-region--1 block-64">
+<div class="block-inner clearfix">
+<div class="block-content content">
+<div id="node-65" class="node node-blocks en article odd node-lang-en node-full clearfix" about="/en/connect" typeof="sioc:Item foaf:Document" role="article">
+<div class="content">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even" property="content:encoded">
+<div class="text-ket-noi">
+<div style="text-align: right;">Connect with us</div>
+</div>
+<div class="ket-noi-anh">
+<div class="ket-noi"><a href="https://twitter.com/" target="_blank"><img src="/images/baovietbank/bg_wt.png" border="0" /></a></div>
+<div class="ket-noi"><a href="https://www.facebook.com/nganhangbaoviet" target="_blank"><img src="/images/baovietbank/bg_facebook.png" border="0" /></a></div>
+<div class="ket-noi"><a href="http://mail.google.com/" target="_blank"><img src="/images/baovietbank/google_buzz.png" border="0" /></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+  </div></div></div></div>    </footer>
+  
+</div>
+  <script>var addthis_config = {"services_compact":"email,facebook,facebook_like,google_plusone_share,linkedin,print,twitter,zingme,more","data_track_clickback":false,"ui_508_compliant":true,"ui_click":true,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":true,"ui_use_css":true,"ui_use_addressbook":true,"ui_language":"en"}
+var addthis_share = {"templates":{"twitter":"{{title}} {{url}} via @AddThis"}}</script>
+<script src="https://www.baovietbank.vn/sites/all/modules/chosen/chosen.js?qkl8wj"></script>
+</body>
+</html>
